@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dino's Dummy Site</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #f8deed;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #21cc6b;
+      font-size: 3em;
+    }
+    p {
+      font-size: 1.2em;
+    }
+    .dino {
+      font-size: 4em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hi there! Welcome to my dummy site </h1>
+  <p>I’m <strong>Dinosaur rawr</strong> — just a chill dino testing out this cool free web space.</p>
+  <p> ૮ ˙Ⱉ˙ ა rawr! A home of the friendliest web dinosaur. </p>
+  <p>Feel free to look around even though there’s nothing here!</p>
+  <div class="dino">🦖</div>
+</body>
+</html>
